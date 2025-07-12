@@ -1,0 +1,14 @@
+{
+	"model_file": "config/yolov8n.bin",
+	"class_num": 1,
+	"dnn_Parser": "yolov8",
+	"cls_names_list": ["construction_cone"],
+	"preprocess_type": 1,
+	"nms_threshold": 0.5,
+	"score_threshold": 0.25,
+	"nms_top_k": 300,
+	"reg": 16,
+	"font_size": 1.0,
+	"font_thickness": 1.0,
+	"line_size": 2.0
+}

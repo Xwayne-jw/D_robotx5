@@ -1,0 +1,6 @@
+{
+	"model_file": "config/race_obstacle_detection.bin",
+	"class_num": 1,
+	"dnn_Parser": "yolov8",
+	"cls_names_list": "config/obstacles.list"
+}
